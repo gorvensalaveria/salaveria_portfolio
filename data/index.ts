@@ -180,6 +180,13 @@ export const workExperience = [
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp3.svg",
   },
+  {
+    id: 4,
+    title: "iSolution LTD",
+    desc: "Developed and maintained the Practice Tests Academy website using WordPress and Moodle. Built and customized WordPress themes and plugins, and enhanced Moodle LMS with tailored features. Assisted in website troubleshooting and tested web applications to ensure functionality and performance.",
+    className: "md:col-span-2", // change to md:col-span-2
+    thumbnail: "/exp3.svg",
+  },
 ];
 
 export const socialMedia = [
